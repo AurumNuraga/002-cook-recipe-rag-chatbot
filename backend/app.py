@@ -6,11 +6,9 @@ import warnings
 import logging
 
 from llama_index.core import Settings
-from llama_index.llms.huggingface_api import HuggingFaceInferenceAPI
 from qdrant_client import QdrantClient
 from llama_index.vector_stores.qdrant import QdrantVectorStore
 from llama_index.core import VectorStoreIndex
-from llama_index.core.storage.storage_context import StorageContext
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.retrievers.bm25 import BM25Retriever
 from llama_index.core.retrievers import QueryFusionRetriever
