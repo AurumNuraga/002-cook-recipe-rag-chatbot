@@ -1,0 +1,11 @@
+llama-index
+llama-index-embeddings-huggingface
+sentence-transformers
+llama-index-llms-huggingface-api
+pandas
+openpyxl
+qdrant-client
+llama-index-vector-stores-qdrant
+python-dotenv
+tiktoken
+streamlit

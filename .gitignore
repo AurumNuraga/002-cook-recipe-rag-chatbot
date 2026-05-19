@@ -1,0 +1,5 @@
+venv/
+.venv/
+llamaindex_env/
+__pycache__/
+.env
