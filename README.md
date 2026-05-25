@@ -1,4 +1,4 @@
-# 002-cook-recipe-rag-chatbot 🍲
+# Cook Recipe RAG Chatbot
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot specialized in exploring and retrieving traditional Indonesian food recipes. This application leverages **LlamaIndex** as the orchestration framework, **Qdrant** as the high-performance vector database, **Groq (Llama 3.1 8B)** for lightning-fast and accurate generation, and **Streamlit** for a clean, user-friendly chat interface.
 
